@@ -10,9 +10,11 @@ Para resolver esse problema e facilitar o cadastro dos produtos em diferentes po
 
 Portanto, eu foi contratado como Cientista de Dados para explorar os dados e trazer repostas sobre o que realmente está acontecendo com o negócio.
 
-**OBSERVAÇÃO:** Os dados estão disponíveis na plataforma kaggle que pode ser acessado pelo endereço 'https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce'. 
+**OBSERVAÇÕES:** 
 
-Para que esse projeto fosse executado, esses dados foram baixados da plataforma kaggle como arquivos csv's e foram armazenados no banco de dados sqlite.
+- Os dados estão disponíveis na plataforma kaggle que pode ser acessado pelo endereço 'https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce'. 
+- Para que esse projeto fosse executado, esses dados foram baixados da plataforma kaggle como arquivos csv's e foram armazenados no banco de dados sqlite.
+- As tabelas obtidas das requisições no banco de dados tiveram suas quantidades de linhas limitadas para que se pudesse ter uma pequena amostra dessas tabelas encontradas aqui no github para uma visualização rápida.
 
 ## Planejamento de Solução
 
