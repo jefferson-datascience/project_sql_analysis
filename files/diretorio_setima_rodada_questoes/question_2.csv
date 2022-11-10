@@ -1,0 +1,21 @@
+,order_id,customer_state,customer_city,order_status,product_id,price
+0,00e7ee1b050b8499577073aeb2a297a1,SP,franca,delivered,a9516a079e37a9c9c36b9b78b10169e8,124.99
+1,29150127e6685892b6eab3eec79f59c7,SP,sao bernardo do campo,delivered,4aa6014eceb682077f9dc4bffebc05b0,289.0
+2,b2059ed67ce144a36e2aa97d2c9e9ad2,SP,sao paulo,delivered,bd07b66896d6f1494f5b86251848ced7,139.94
+3,951670f92359f4fe4a63112aa7306eba,SP,mogi das cruzes,delivered,a5647c44af977b148e0a3a4751a09e2e,149.94
+4,6b7d50bd145f6fc7f33cebabd7e49d0f,SP,campinas,delivered,9391a573abe00141c56e38d84d7d5b3b,230.0
+5,36e694cf4cbc2a4803200c35e84abdc4,SP,sao paulo,delivered,b5466db4cecf95c3c1be0ba32538ce1a,14.99
+6,83d8f70418eefd96f37b483dff430305,SP,lencois paulista,delivered,3fc00af0f0a8d4ac2933d3900416c977,99.0
+7,852d2f4d37773bcbc21c8e09a05a4ea5,SP,sao paulo,delivered,33f17ed3c6906f7a7ae17a0843536db4,27.99
+8,eac76692452422620996fe5e1a7f8bb0,SP,piracicaba,delivered,98a8c2fa16d7239c606640f5555768e4,129.0
+9,ec28553b12bef4b538e5d7454464a1c6,SP,guarulhos,delivered,e64e4ef7b809314306d9c09635d8cd30,7.09
+10,17825f24877a9289214c301ae0c9424b,SP,sao paulo,delivered,99a4788cb24856965c36a24e339b6058,89.9
+11,0198c71148c2e08c7c52b860f640fa4e,SP,sao paulo,delivered,138d7037b59dcee052810952c983033b,148.0
+12,6cdc131d3c28253cd03cd0fbc3d5f938,SP,sao paulo,delivered,777d2e438a1b645f3aec9bd57e92672c,69.9
+13,daf946e879dab6e7e6b3f968297c3fe3,SP,santo andre,delivered,d2d39433df84064b1556612cc52cefca,49.0
+14,a8f5a2b22f55e0af45b300929d1fdc7d,SP,sao paulo,delivered,11b062c710beb867b4897ff2728e828d,29.99
+15,0330631bdb2ec8c341f487ed9c22fc8b,SP,sao paulo,delivered,f89caa3ea4fb5f7b6e7fb2bb4ba61881,45.9
+16,2904d3ae0064e840ffb4798ba4a12ae3,SP,sao jose dos campos,delivered,422879e10f46682990de24d770e7f83d,59.9
+17,f3b96845efd71daecf6b331fb3a9f537,SP,sao roque,delivered,389d119b48cf3043d311335e499d9c6b,49.0
+18,72bd19ef4fa285334b95bda01a3718c7,SP,sumare,delivered,a8e69cb7ca2c04d5ba7f73b2385f2a76,45.0
+19,4ca8a781d1f4b13e966bf35cdc333f56,SP,guarulhos,delivered,af0a917aec9cea3b353ece61a8825326,89.9

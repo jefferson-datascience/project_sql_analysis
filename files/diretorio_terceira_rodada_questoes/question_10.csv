@@ -1,0 +1,6 @@
+,payment_type,total_order,mean_value_payment,max_payments_installments
+0,boleto,19784,145.0344354023441,1
+1,credit_card,76795,163.31902063935578,24
+2,debit_card,1529,142.57017004578162,1
+3,not_defined,3,0.0,1
+4,voucher,5775,65.70335411255424,1

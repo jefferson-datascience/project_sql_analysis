@@ -1,0 +1,51 @@
+,order_id,customer_state,customer_city,order_status,product_category_name,price
+0,1b9ecfe83cdc259250e1a8aca174f0ad,SP,sao paulo,canceled,informatica_acessorios,25.0
+1,714fb133a6730ab81fa1d3c1b2007291,SP,diadema,canceled,moveis_decoracao,69.9
+2,3a129877493c8189c59c60eb71d97c29,PR,maringa,canceled,esporte_lazer,35.9
+3,0966b61e30c4a07edbd7523f59b3f3e4,RJ,rio das ostras,canceled,moveis_decoracao,68.31
+4,0966b61e30c4a07edbd7523f59b3f3e4,RJ,rio das ostras,canceled,moveis_decoracao,68.31
+5,0966b61e30c4a07edbd7523f59b3f3e4,RJ,rio das ostras,canceled,moveis_decoracao,68.31
+6,9021cf1919f615a121410790dcce848f,MG,buenopolis,canceled,perfumaria,219.0
+7,a39d3db795a5cf4c8b6c9dd050f0d326,SP,santo andre,canceled,ferramentas_jardim,129.99
+8,375f80ffc05feb35ce2680f1fa490575,RJ,rio de janeiro,canceled,brinquedos,89.9
+9,6bfa92d3952f762df12752e4937cd63e,SP,sao paulo,canceled,esporte_lazer,72.5
+10,2eb5ba20812f78127f6243fa27fb40e5,SP,promissao,canceled,esporte_lazer,180.0
+11,1950d777989f6a877539f53795b4c3c3,MG,contagem,canceled,beleza_saude,29.99
+12,6261f3240a8778c656bd28aeb2ba9985,BA,vitoria da conquista,canceled,brinquedos,198.0
+13,5ad5a1ef522da1732ab963ea1fb6165b,SP,sao paulo,canceled,,13.5
+14,96ae30a2357a999e6010b2f1401af374,SP,borborema,canceled,informatica_acessorios,26.9
+15,73c182f8914a0064d6c64ad65e4c6942,GO,anapolis,canceled,brinquedos,49.9
+16,e5fa5a7210941f7d56d0208e4e071d35,RS,passo fundo,canceled,telefonia,59.5
+17,8a9cce19aa49e055f2babb81d5a71c40,SP,peruibe,canceled,alimentos,149.9
+18,c1049eef89915c6beb3604bf3d6588d7,RJ,rio de janeiro,canceled,cool_stuff,215.0
+19,168823ad1b77477540db78ab357f18b5,MG,juiz de fora,canceled,perfumaria,489.0
+20,885935156ba43094f3ae95f3c14e0381,RJ,rio de janeiro,canceled,utilidades_domesticas,26.18
+21,c504f1f5fd54cc8398d57dc0da49de01,BA,salvador,canceled,cama_mesa_banho,49.9
+22,bcdad86f44c780bf1aaf24b66dd97753,PR,medianeira,canceled,automotivo,123.51
+23,5b4858f2dcf69731f2285a38829bfa7c,BA,una,canceled,malas_acessorios,50.9
+24,5b0ee19a3125fc083348baa76d816ed0,PR,maringa,canceled,informatica_acessorios,81.0
+25,12e1495369c542f003eb3ca480f924e3,SP,santo andre,canceled,,129.99
+26,03a8aa5d0860898d421c46247011c686,SP,lorena,canceled,automotivo,314.99
+27,bef875448d5a4f703555d2dd5f8382b5,RJ,itaborai,canceled,moveis_decoracao,139.9
+28,013e9c654a339d80b53513da3c1ea437,SP,arandu,canceled,utilidades_domesticas,109.9
+29,676e40056867189a1b3599f3e646f421,SP,sao paulo,canceled,esporte_lazer,25.18
+30,676e40056867189a1b3599f3e646f421,SP,sao paulo,canceled,esporte_lazer,25.18
+31,61792c6272346d7f4b7c5b1747df7b1a,MA,sao luis,canceled,telefonia,24.99
+32,94bde44a48f191d7175f67eb93b9ed67,DF,brasilia,canceled,telefonia,119.99
+33,7142b298b22a79a285d2ce792dc533a2,ES,vitoria,canceled,utilidades_domesticas,565.7
+34,5687ad45d33870c742b2cdacaf758353,SP,sao paulo,canceled,beleza_saude,57.99
+35,dabf2b0e35b423f94618bf965fcb7514,SP,sao paulo,canceled,perfumaria,59.9
+36,dabf2b0e35b423f94618bf965fcb7514,SP,sao paulo,canceled,beleza_saude,49.9
+37,36f66ebfbd144aa6fb39338bd87b0bf9,SP,sao paulo,canceled,cama_mesa_banho,47.9
+38,7106ae47c0242d76f336f5430d3ae0fc,SP,sao paulo,canceled,brinquedos,119.9
+39,7106ae47c0242d76f336f5430d3ae0fc,SP,sao paulo,canceled,brinquedos,119.9
+40,374bd3371c572eff1218edb0eb68cb96,SP,campos do jordao,canceled,brinquedos,71.9
+41,709e43f97cb2a47fa749503419163710,BA,guanambi,canceled,esporte_lazer,399.76
+42,b54861ba91f988d9f961bdcd1a9a2026,SP,barueri,canceled,bebes,139.99
+43,27f3ee911b46e671b6393093afebc222,SP,sao paulo,canceled,moveis_decoracao,9.9
+44,fa4c59a94711decb9c0410a0e7f878bc,SP,sao paulo,canceled,moveis_decoracao,19.2
+45,891e419a9019fb81b67212a708cb5f83,SP,dumont,canceled,esporte_lazer,425.0
+46,3e170726582244699b156f1c7044223a,MG,monte carmelo,canceled,informatica_acessorios,399.99
+47,18987e54897a1baddde716aa4a01639c,SP,sao paulo,canceled,construcao_ferramentas_construcao,114.5
+48,b89c3dccabd368d8a4b6778c1094df6b,DF,brasilia,canceled,esporte_lazer,90.5
+49,acfa87544c19d596707d25cf2f7dab61,SP,sao paulo,canceled,beleza_saude,47.49

@@ -1,0 +1,6 @@
+,payment_type,num_orders
+0,boleto,19784
+1,credit_card,76795
+2,debit_card,1529
+3,not_defined,3
+4,voucher,5775

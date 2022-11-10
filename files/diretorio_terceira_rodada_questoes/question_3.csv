@@ -1,0 +1,51 @@
+,customer_state,customer_city,num_unique_customer_city_and_state
+0,AC,brasileia,1
+1,AC,cruzeiro do sul,3
+2,AC,epitaciolandia,1
+3,AC,manoel urbano,1
+4,AC,porto acre,1
+5,AC,rio branco,70
+6,AC,senador guiomard,2
+7,AC,xapuri,2
+8,AL,agua branca,1
+9,AL,anadia,2
+10,AL,arapiraca,29
+11,AL,atalaia,1
+12,AL,barra de santo antonio,2
+13,AL,barra de sao miguel,2
+14,AL,batalha,3
+15,AL,belem,3
+16,AL,boca da mata,2
+17,AL,cacimbinhas,1
+18,AL,cajueiro,1
+19,AL,campo alegre,2
+20,AL,canapi,1
+21,AL,coite do noia,1
+22,AL,colonia leopoldina,2
+23,AL,coruripe,3
+24,AL,delmiro gouveia,4
+25,AL,dois riachos,1
+26,AL,feliz deserto,2
+27,AL,girau do ponciano,1
+28,AL,ibateguara,2
+29,AL,igaci,2
+30,AL,igreja nova,2
+31,AL,inhapi,2
+32,AL,jequia da praia,2
+33,AL,junqueiro,2
+34,AL,lagoa da canoa,1
+35,AL,luziapolis,1
+36,AL,maceio,247
+37,AL,mar vermelho,2
+38,AL,maragogi,5
+39,AL,maravilha,2
+40,AL,marechal deodoro,1
+41,AL,maribondo,1
+42,AL,mata grande,2
+43,AL,matriz de camaragibe,1
+44,AL,monteiropolis,1
+45,AL,murici,1
+46,AL,novo lino,1
+47,AL,olho d'agua das flores,3
+48,AL,palmeira dos indios,8
+49,AL,paripueira,1
